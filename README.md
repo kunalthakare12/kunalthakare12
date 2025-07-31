@@ -2,7 +2,20 @@
 ## Hi there 👋 I am Kunal Thakare
 
 # 💫 About Me:
-const developer = {<br>  name: "Kunal Thakare",<br>  location: "Pune, India",<br>  code: ["JavaScript", "TypeScript", "C++"],<br>  technologies: {<br>    frontend: ["React", "Tailwind CSS"],<br>    backend: ["Node.js", "Express.js"],<br>    databases: ["MongoDB"],<br>    tools: ["Docker", "AWS", "Git", "VS Code", "Postman"]<br>  },<br>  currentlyExploring: "Cloud technologies (AWS) and DevOps",<br>  funFact: "I write code that compiles... eventually. 🤷‍♂️"<br>};<br>
+const developer = {
+  name: "Kunal Thakare",
+  location: "Pune, India",
+  code: ["JavaScript", "TypeScript", "C++"],
+  technologies: {
+    frontend: ["React", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js"],
+    databases: ["MongoDB"],
+    tools: ["Docker", "AWS", "Git", "VS Code", "Postman"]
+  },
+  currentlyExploring: "Cloud technologies (AWS) and DevOps",
+  funFact: "I write code that compiles... eventually. 🤷‍♂️"
+};
+
 
 
 ## 🌐 Socials:
