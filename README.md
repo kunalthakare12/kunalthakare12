@@ -19,7 +19,8 @@ const developer = {<br>  name: "Kunal Thakare",<br>  location: "Pune, India",<br
 ![](https://github-profile-trophy.vercel.app/?username=kunalthakare12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" /> </p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kunalthakare12&icon=0&color=3)](https://visitcount.itsvg.in)
