@@ -1,4 +1,4 @@
-<div align="center">
+
 ## Hi there 👋 I am Kunal Thakare
 
 # 💫 About Me:
